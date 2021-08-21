@@ -1,0 +1,3 @@
+﻿  Interpolation_Search.cpp
+D:\KHTN\CTDL\Synthesis-Report\Intopolation_Search\Interpolation_Search\Interpolation_Search\Interpolation_Search.cpp(11,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Interpolation_Search.vcxproj -> D:\KHTN\CTDL\Synthesis-Report\Intopolation_Search\Interpolation_Search\Debug\Interpolation_Search.exe
