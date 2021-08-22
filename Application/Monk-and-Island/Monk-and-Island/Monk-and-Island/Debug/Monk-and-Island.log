@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\KHTN\CTDL\Synthesis-Report\Application\Monk-and-Island\Monk-and-Island\Monk-and-Island\Source.cpp(14,27): warning C4018: '<': signed/unsigned mismatch
+D:\KHTN\CTDL\Synthesis-Report\Application\Monk-and-Island\Monk-and-Island\Monk-and-Island\Source.cpp(34,14): warning C4101: 'F': unreferenced local variable
+  Monk-and-Island.vcxproj -> D:\KHTN\CTDL\Synthesis-Report\Application\Monk-and-Island\Monk-and-Island\Debug\Monk-and-Island.exe
