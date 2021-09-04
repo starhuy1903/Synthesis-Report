@@ -1,0 +1,83 @@
+*
+E
+I
+S
+H
+5 end
+4 end
+V
+*
+*
+* end
+$ end
+* end
+3 end
+U
+F end
+*
+*
+? end
+_ end
+2 end
+A
+R
+L
+& end
+*
+" end
+* end
+*
++
+* end
+. end
+* end
+W
+P
+* end
+*
+@ end
+* end
+J
+* end
+1
+' end
+* end
+T
+N
+D
+B
+6
+* end
+- end
+= end
+X
+/ end
+* end
+K
+C
+* end
+*
+; end
+! end
+Y
+(
+* end
+) end
+* end
+M
+G
+Z
+7 end
+*
+* end
+, end
+Q end
+O
+*
+8
+: end
+* end
+* end
+*
+9 end
+0 end
