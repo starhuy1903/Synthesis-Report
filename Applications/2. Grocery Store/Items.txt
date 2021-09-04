@@ -1,0 +1,24 @@
+Bread|4000|97
+Cake|50000|57
+Candy|5000|40
+Chair|70000|10
+Chili Sauce|12000|20
+Coca Cola|10000|276
+Coffee|15000|200
+Cup|10000|50
+Egg|2500|200
+Fish Sauce|40000|25
+Milk|8000|297
+Noodles|5000|100
+Pepsi|10000|387
+Rice|20000|100
+Salt|5000|25
+Sausage|4000|75
+Sesame Oil|16000|15
+Shampoo|90000|40
+Shower Gel|120000|50
+Snack|6000|100
+Soy|23000|18
+Sugar|18000|30
+Tea|60000|9
+Vase|30000|15
