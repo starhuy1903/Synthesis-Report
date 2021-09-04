@@ -39,7 +39,15 @@ int main()
     int N, M, S, T, a[100][100], man[100], woman[100], MIN = 10000, Luu = 0;
     vector < int > ke[1000];
 
-    cin >> N >> M >> S >> T;
+    cout << "Please enter the planet number:";
+    cin >> N;
+    cout << "Please enter the rainbow number:";
+    cin >> M;
+    cout << "Enter the planet on which Mr. Ngau is standing:";
+    cin >> S;
+    cout << "Enter the planet on which Mrs. Ngau is standing:";
+    cin >> T;
+    cout << "Enter the connecting planets and the length of each bridge connecting the 2 planets :\n";
     for (int i = 1; i <= M; i++)
     {
         int x, y, t;
@@ -60,7 +68,10 @@ int main()
             Luu = i;
         }
     }
-    if (Luu != 0)  cout << Luu;
+    if (Luu != 0)
+    {
+        cout << "Result: "<<Luu;
+    }
     else cout << "CRY";
     return 0;
 }

@@ -27,14 +27,23 @@ void BFS(vector < int > ke[1000], int n, int m, int d[1000])
 int main(int argc, const char* argv[])
 {
     int q;
+    cout << "Enter test number: ";
     cin >> q;
     for (int i = 0; i < q; i++)
     {
+        cout << "*Test " << i + 1<<" :\n";
+        
         int m, n, d[1000];
         bool F[1000];
         vector < int > ke[1000];
         memset(d, 0, sizeof(d));
-        cin >> n >> m;
+
+        cout << "Enter the island number: ";
+        cin >> n;
+        cout << "Enter the number of bridges connecting the islands: ";
+        cin>> m;
+
+        cout << "Enter the islands connected to each other:\n";
         for (int j = 0; j < m; j++)
         {
             int x, y;
@@ -44,7 +53,7 @@ int main(int argc, const char* argv[])
             ke[y].push_back(x);
         }
         BFS(ke, n, m, d);
-        cout << d[n] - 1 << endl;
+        cout << "The result: " << d[n] - 1 << endl;
     }
     return 0;
 }
