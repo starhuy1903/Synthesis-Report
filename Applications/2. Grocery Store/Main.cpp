@@ -221,9 +221,6 @@ void runSell(StockList* stockList) {
 					cout << "\tYour choice not valid. Please try again."; cin.get();
 					break;
 				}
-				//	3. Remove one or more products then continue shopping
-				
-				//	4. Remove one or more products then make payment
 				
 			}
 			else {
